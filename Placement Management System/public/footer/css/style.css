@@ -1,0 +1,51 @@
+.heading{
+    text-align: left;
+    font-size: 44px;
+    font-family: 'Averta','Helvetica Neue','Open Sans',Arial,sans-serif;
+    font-weight: 300;
+    letter-spacing: -.5px;
+    color: #223464;
+    line-height: 1.33;
+    margin-bottom: 5px;
+    margin-top: 100px;
+}
+#more{
+    display: none;
+    margin-bottom: 50px;
+    margin-top: 12px;
+    font-weight: 300;
+    color: #5d648e;
+    line-height: 1.7;
+    text-align: center;
+    font-size: 22px;
+    font-family: 'Averta','Helvetica Neue','Open Sans',Arial,sans-serif;
+}
+.readmore{
+    margin-bottom: 50px;
+    margin-top: 12px;
+    font-weight: 300;
+    color: #5d648e;
+    line-height: 1.7;
+    text-align: center;
+    font-size: 22px;
+    font-family: 'Averta','Helvetica Neue','Open Sans',Arial,sans-serif;
+}
+#myBtn{
+    color: #0984e3;
+    font-size: 22px;  
+}
+.column {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    float: left;
+    width: 8%;
+    padding: 5px;
+}
+.graph {
+    float: left;
+    width: 50%;
+    padding: 40px;
+}
+
